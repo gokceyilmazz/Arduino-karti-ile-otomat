@@ -121,7 +121,7 @@ void setup() {
 
 void loop() {
 
-      sayi = 2;
+      sayi = random(1,5);
   
       if(digitalRead(Buton1) == 0){
       if(buton_deg==0){
