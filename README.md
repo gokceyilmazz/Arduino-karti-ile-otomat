@@ -16,7 +16,7 @@ geliştirilmiştir, geliştirme kartı olarak Arduino
 UNO R3 Klon kullanılmıştır. Dosya okuması 
 yapmak için SD kart ve SD kartı Arduino kartına 
 bağlamak için mikro SD kart modülü kullanılmıştır. 
-SD kart modülünü Arduino ile bağlamak için DişiErkek M-F Jumper Kablo kullanılmıştır. Arduino 
+SD kart modülünü Arduino ile bağlamak için Dişi-Erkek M-F Jumper Kablo kullanılmıştır. Arduino 
 kartı ile breadboard arası bağlantı için Erkek-Erkek 
 M-M Jumper Kablo kullanılmıştır. Kullanıcın para 
 atması için beş adet para butonu ve bir adet bitiş 
